@@ -1,9 +1,11 @@
-#### Olá eu sou Leonardo Carvalho
+#### Leonardo Carvalho
 
 <!--
 - 🔭
 -->
-- 🌱 Estudando as linguagens python e javascript 
+- 🌱 Aprendiz das linguagens python e javascript 
+- 🌱 Estudante de HTML e CSS
+- 🌱 Linguagem R
 
 
 
