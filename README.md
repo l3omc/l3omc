@@ -3,8 +3,7 @@
 <!--
 - 🔭
 -->
-- 🌱 Aprendiz das linguagens python e javascript 
-- 🌱 Estudante de HTML e CSS
+- 🌱 Aprendiz das linguagens Python e Javascript 
 - 🌱 Linguagem R
 
 
