@@ -4,9 +4,8 @@
 - 🔭
 -->
 - 🌱 Python
-- 🌱 Javascript 
 - 🌱 Linguagem R
-
+- Sensoriamento remoto voltado a geociências. 
 
 
 <!--imagem com o github stats -->
