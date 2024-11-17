@@ -5,7 +5,9 @@
 -->
 - 🌱 Python
 - 🌱 Linguagem R
-- Sensoriamento remoto voltado a geociências. 
+- Análise de dados ambientais.
+- Sensoriamento remoto voltado a geociências.
+   
 
 
 <!--imagem com o github stats -->
