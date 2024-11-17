@@ -7,12 +7,14 @@
 - 🌱 Linguagem R
 - Análise de dados ambientais.
 - Sensoriamento remoto voltado a geociências.
-   
+
+   <div align = "right">
  <img
         align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
+</div>
 
 <!--imagem com o github stats -->
 <!--
@@ -47,7 +49,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/l3omc/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
