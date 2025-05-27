@@ -27,15 +27,16 @@
 
 ####  
 <div style="display: inline_block">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-Metabase" height="30" width="40" src="https://seeklogo.com/images/M/metabase-logo-37B674BDBD-seeklogo.com.png">
   <img align="center" alt="Leo-PowerBI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg">
+  <img align="center" alt="Leo-Looker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/looker.svg">
   <img align="center" alt="Leo-Excel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-MD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+  <img align="center" alt="Leo-Streamlit" height="30" width="40" src="https://streamlit.io/images/brand/streamlit-logo-sec
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="Leo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
 </div>
 
 ---
@@ -64,7 +65,7 @@
   <a href="mailto:leocarva95@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-carvalho-8a1918192" target="_blank">
+  <a href="https://www.linkedin.com/in/l3omc/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
