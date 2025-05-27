@@ -4,16 +4,15 @@
     <td>
       <h1>Leonardo Carvalho</h1>
       <p>
-        - 🌱 Python <br>
-        - 🌱 Linguagem R <br>
-        - 🌱 Power bi <br>
-        - 🌱 Excel <br>
-        - 🌱 Metabase <br>
-        - Análise de dados ambientais.<br>
-        - Sensoriamento remoto voltado a geociências.<br>
-        - Desenvolvimento de aplicações para meteorologia e geoprocessamento.<br>
-        - Extração e tratamento de dados utlizando python e excel.<br>
-        - Elaboração de dashboards utilizando python(streamlit e dash), power bi, excel e metabase.<br>
+             ### 🧠 Habilidades técnicas
+
+        - 🐍 **Python** – Automação, análise e visualização de dados  <br>
+        - 📊 **Power BI** – Painéis interativos e relatórios estratégicos  <br>
+        - 📈 **Excel** – Modelagem, tratamento e manipulação de grandes volumes  <br>
+        - 🛰️ **Sensoriamento remoto** – Processamento de imagens orbitais  <br>
+        - 🌍 **Geoprocessamento** – Análises espaciais com foco em meio ambiente  <br>
+        - 🔌 **Integrações** – APIs, bancos de dados e fontes diversas  <br>
+        
       </p>
     </td>
     <td>
