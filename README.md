@@ -5,12 +5,12 @@
       <h1>Leonardo Carvalho</h1>
       <p><strong>🧠 Habilidades Técnicas</strong></p>
       <ul>
-        - 🐍 <strong>Python</strong> – Automação, análise e visualização de dados <br>
-        - 📊 <strong>Power BI</strong> – Painéis interativos e relatórios estratégicos <br>
-        - 📈 <strong>Excel</strong> – Modelagem, tratamento e manipulação de grandes volumes <br>
-        - 🛰️ <strong>Sensoriamento remoto</strong> – Processamento de imagens orbitais <br>
-        - 🌍 <strong>Geoprocessamento</strong> – Análises espaciais com foco em meio ambiente <br>
-        - 🔌 <strong>Integrações</strong> – APIs, bancos de dados e fontes diversas <br>
+         🐍 <strong>Python</strong> – Automação, análise e visualização de dados <br>
+         📊 <strong>Power BI</strong> – Painéis interativos e relatórios estratégicos <br>
+         📈 <strong>Excel</strong> – Modelagem, tratamento e manipulação de grandes volumes <br>
+         🛰️ <strong>Sensoriamento remoto</strong> – Processamento de imagens orbitais <br>
+         🌍 <strong>Geoprocessamento</strong> – Análises espaciais com foco em meio ambiente <br>
+         🔌 <strong>Integrações</strong> – APIs, bancos de dados e fontes diversas <br>
       </ul>
     </td>
     <td align="center" width="40%">
@@ -32,7 +32,7 @@
   <img align="center" alt="Leo-Looker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/looker.svg">
   <img align="center" alt="Leo-Excel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg">
   <img align="center" alt="Leo-MD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-  <img align="center" alt="Leo-Streamlit" height="30" width="40" src="https://streamlit.io/images/brand/streamlit-logo-sec
+  <img align="center" alt="Leo-Streamlit" height="30" width="40" src="https://streamlit.io/images/brand/streamlit-logo-sec">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Leo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
