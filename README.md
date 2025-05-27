@@ -5,9 +5,7 @@
       <h1>Leonardo Carvalho</h1>
 
       <p><strong>👋 Sobre mim</strong></p>
-      <p>
-        Sou <strong>meteorologista</strong> com formação técnica em <strong>Desenvolvimento de Sistemas</strong> e <strong>Sistemas para Internet</strong>, com foco em <strong>tratamento, análise e visualização de dados ambientais e geoespaciais</strong>. Trabalho na construção de soluções que integram ciência e tecnologia para transformar <em>dados brutos</em> em <strong>informações relevantes para a tomada de decisão</strong>.
-      </p>
+      <p>Sou <strong>meteorologista</strong> com formação técnica em <strong>Desenvolvimento de Sistemas</strong> e <strong>Sistemas para Internet</strong>, com foco em <strong>tratamento, análise e visualização de dados ambientais e geoespaciais</strong>. Trabalho na construção de soluções que integram ciência e tecnologia para transformar <em>dados brutos</em> em <strong>informações relevantes para a tomada de decisão</strong>. </p>
 
       <p><strong>Tenho experiência sólida em:</strong><br>
         ⚙️ Automação de rotinas<br>
@@ -31,11 +29,8 @@
       </p>
     </td>
     <td align="center" width="40%">
-      <img 
-        src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-        alt="ilustração de um computador" 
-        width="250"
-      />
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+        alt="ilustração de um computador" width="250"/>
     </td>
   </tr>
 </table>
@@ -60,6 +55,8 @@
 ---
 
 #### 
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3omc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
