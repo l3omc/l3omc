@@ -1,15 +1,17 @@
 <!-- Layout lado a lado com HTML simplificado (100% compatível com GitHub) -->
 <table>
   <tr>
-    <td style="vertical-align: top; width: 60%;">
+    <td style="width: 60%; vertical-align: top;">
 
       <h1>Leonardo Carvalho</h1>
+
       <h3>👋 Sobre mim</h3>
       <p>
-        Sou <strong>meteorologista</strong> com formação técnica em <strong>Desenvolvimento de Sistemas</strong> e <strong>Sistemas para Internet</strong>, com foco em <strong>tratamento, análise e visualização de dados ambientais e geoespaciais</strong>. Trabalho na construção de soluções que integram ciência e tecnologia para transformar <em>dados brutos</em> em <strong>informações relevantes para a tomada de decisão</strong>.
+        Sou <strong>meteorologista</strong> com formação técnica em <strong>Desenvolvimento de Sistemas</strong> e <strong>Sistemas para Internet</strong>, com foco em <strong>tratamento, análise e visualização de dados ambientais e geoespaciais</strong>. <br>
+        Trabalho na construção de soluções que integram ciência e tecnologia para transformar <em>dados brutos</em> em <strong>informações relevantes para a tomada de decisão</strong>.
       </p>
 
-      <h3>✅ Experiência sólida em</h3>
+      <h3>✅ Experiência sólida em:</h3>
       <p>
         ⚙️ Automação de rotinas<br>
         🧹 Limpeza e padronização de dados<br>
@@ -17,24 +19,25 @@
         📊 Criação de dashboards interativos para análise técnica e operacional
       </p>
 
-      <h3>🎯 Atualmente estudando</h3>
+      <h3>🎯 Atualmente estudando:</h3>
       <p>
-        🚀 Power BI e Excel em nível avançado<br>
-        🧠 Ciência de Dados com Python
+        🚀 Aprofundando habilidades em <strong>Power BI</strong> e <strong>Excel</strong><br>
+        🧠 Estudando <strong>Ciência de Dados com Python</strong>
       </p>
 
       <h3>🧠 Habilidades Técnicas</h3>
       <p>
-        🐍 Python – Automação, análise e visualização de dados<br>
-        📊 Power BI – Painéis interativos e relatórios estratégicos<br>
-        📈 Excel – Modelagem, tratamento e manipulação de grandes volumes<br>
-        🛰️ Sensoriamento remoto – Processamento de imagens orbitais<br>
-        🌍 Geoprocessamento – Análises espaciais com foco em meio ambiente<br>
-        🔌 Integrações – APIs, bancos de dados e fontes diversas
+        🐍 <strong>Python</strong> – Automação, análise e visualização de dados<br>
+        📊 <strong>Power BI</strong> – Painéis interativos e relatórios estratégicos<br>
+        📈 <strong>Excel</strong> – Modelagem, tratamento e manipulação de grandes volumes<br>
+        🛰️ <strong>Sensoriamento remoto</strong> – Processamento de imagens orbitais<br>
+        🌍 <strong>Geoprocessamento</strong> – Análises espaciais com foco em meio ambiente<br>
+        🔌 <strong>Integrações</strong> – APIs, bancos de dados e fontes diversas
       </p>
+
     </td>
 
-    <td style="text-align: center; width: 40%;">
+    <td style="width: 40%; text-align: center;">
       <img 
         src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
         alt="computador ilustrado" 
