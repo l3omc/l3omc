@@ -10,6 +10,12 @@
     <td valign="top" width="60%">
       <h1>Leonardo Carvalho</h1>
 
+      <!-- Imagem e texto lado a lado (versão compatível com GitHub) -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h1>Leonardo Carvalho</h1>
+
       <p><strong>👋 Sobre mim</strong></p>
       <p>
         Sou <strong>meteorologista</strong> com formação técnica em <strong>Desenvolvimento de Sistemas</strong> e <strong>Sistemas para Internet</strong>, com foco em <strong>tratamento, análise e visualização de dados ambientais e geoespaciais</strong>. Trabalho na construção de soluções que integram ciência e tecnologia para transformar <em>dados brutos</em> em <strong>informações relevantes para a tomada de decisão</strong>.
@@ -28,6 +34,23 @@
       </p>
 
       <p><strong>🧠 Habilidades Técnicas</strong><br>
+        🐍 <strong>Python</strong> – Automação, análise e visualização de dados<br>
+        📊 <strong>Power BI</strong> – Painéis interativos e relatórios estratégicos<br>
+        📈 <strong>Excel</strong> – Modelagem, tratamento e manipulação de grandes volumes<br>
+        🛰️ <strong>Sensoriamento remoto</strong> – Processamento de imagens orbitais<br>
+        🌍 <strong>Geoprocessamento</strong> – Análises espaciais com foco em meio ambiente<br>
+        🔌 <strong>Integrações</strong> – APIs, bancos de dados e fontes diversas
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <img 
+        src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+        alt="ilustração de um computador" 
+        width="250"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ---
