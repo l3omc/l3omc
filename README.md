@@ -1,26 +1,23 @@
 <!-- Imagem e texto lado a lado -->
 <table>
   <tr>
-    <td>
+    <td valign="top" width="60%">
       <h1>Leonardo Carvalho</h1>
-      <p>
-             ### 🧠 Habilidades técnicas
-
-        - 🐍 **Python** – Automação, análise e visualização de dados  <br>
-        - 📊 **Power BI** – Painéis interativos e relatórios estratégicos  <br>
-        - 📈 **Excel** – Modelagem, tratamento e manipulação de grandes volumes  <br>
-        - 🛰️ **Sensoriamento remoto** – Processamento de imagens orbitais  <br>
-        - 🌍 **Geoprocessamento** – Análises espaciais com foco em meio ambiente  <br>
-        - 🔌 **Integrações** – APIs, bancos de dados e fontes diversas  <br>
-        
-      </p>
+      <p><strong>🧠 Habilidades Técnicas</strong></p>
+      <ul>
+        <li>🐍 <strong>Python</strong> – Automação, análise e visualização de dados</li>
+        <li>📊 <strong>Power BI</strong> – Painéis interativos e relatórios estratégicos</li>
+        <li>📈 <strong>Excel</strong> – Modelagem, tratamento e manipulação de grandes volumes</li>
+        <li>🛰️ <strong>Sensoriamento remoto</strong> – Processamento de imagens orbitais</li>
+        <li>🌍 <strong>Geoprocessamento</strong> – Análises espaciais com foco em meio ambiente</li>
+        <li>🔌 <strong>Integrações</strong> – APIs, bancos de dados e fontes diversas</li>
+      </ul>
     </td>
-    <td>
+    <td align="center" width="40%">
       <img 
         src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
         alt="ilustração de um computador" 
-        width="300" 
-        style="border-radius: 15px;"
+        width="250"
       />
     </td>
   </tr>
