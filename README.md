@@ -12,8 +12,8 @@
         - Análise de dados ambientais.<br>
         - Sensoriamento remoto voltado a geociências.<br>
         - Desenvolvimento de aplicações para meteorologia e geoprocessamento.<br>
-        - Extração e tratamento de dados utlizando python e excel
-        - Elaboração de dashboards utilizando python(streamlit e dash), power bi, excel e metabase.
+        - Extração e tratamento de dados utlizando python e excel.<br>
+        - Elaboração de dashboards utilizando python(streamlit e dash), power bi, excel e metabase.<br>
       </p>
     </td>
     <td>
