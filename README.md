@@ -5,12 +5,12 @@
       <h1>Leonardo Carvalho</h1>
       <p><strong>🧠 Habilidades Técnicas</strong></p>
       <ul>
-        <li>🐍 <strong>Python</strong> – Automação, análise e visualização de dados</li>
-        <li>📊 <strong>Power BI</strong> – Painéis interativos e relatórios estratégicos</li>
-        <li>📈 <strong>Excel</strong> – Modelagem, tratamento e manipulação de grandes volumes</li>
-        <li>🛰️ <strong>Sensoriamento remoto</strong> – Processamento de imagens orbitais</li>
-        <li>🌍 <strong>Geoprocessamento</strong> – Análises espaciais com foco em meio ambiente</li>
-        <li>🔌 <strong>Integrações</strong> – APIs, bancos de dados e fontes diversas</li>
+        - 🐍 <strong>Python</strong> – Automação, análise e visualização de dados</li>
+        - 📊 <strong>Power BI</strong> – Painéis interativos e relatórios estratégicos</li>
+        - 📈 <strong>Excel</strong> – Modelagem, tratamento e manipulação de grandes volumes</li>
+        - 🛰️ <strong>Sensoriamento remoto</strong> – Processamento de imagens orbitais</li>
+        - 🌍 <strong>Geoprocessamento</strong> – Análises espaciais com foco em meio ambiente</li>
+        - 🔌 <strong>Integrações</strong> – APIs, bancos de dados e fontes diversas</li>
       </ul>
     </td>
     <td align="center" width="40%">
