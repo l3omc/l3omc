@@ -6,9 +6,14 @@
       <p>
         - 🌱 Python <br>
         - 🌱 Linguagem R <br>
+        - 🌱 Power bi <br>
+        - 🌱 Excel <br>
+        - 🌱 Metabase <br>
         - Análise de dados ambientais.<br>
         - Sensoriamento remoto voltado a geociências.<br>
         - Desenvolvimento de aplicações para meteorologia e geoprocessamento.<br>
+        - Extração e tratamento de dados utlizando python e excel
+        - Elaboração de dashboards utilizando python(streamlit e dash), power bi, excel e metabase.
       </p>
     </td>
     <td>
