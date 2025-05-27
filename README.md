@@ -4,18 +4,6 @@
     <td valign="top" width="60%">
       <h1>Leonardo Carvalho</h1>
 
-     <!-- Imagem e texto lado a lado (versão compatível com GitHub) -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h1>Leonardo Carvalho</h1>
-
-      <!-- Imagem e texto lado a lado (versão compatível com GitHub) -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h1>Leonardo Carvalho</h1>
-
       <p><strong>👋 Sobre mim</strong></p>
       <p>
         Sou <strong>meteorologista</strong> com formação técnica em <strong>Desenvolvimento de Sistemas</strong> e <strong>Sistemas para Internet</strong>, com foco em <strong>tratamento, análise e visualização de dados ambientais e geoespaciais</strong>. Trabalho na construção de soluções que integram ciência e tecnologia para transformar <em>dados brutos</em> em <strong>informações relevantes para a tomada de decisão</strong>.
