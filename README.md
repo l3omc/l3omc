@@ -107,5 +107,14 @@ Tenho experiência na geração de produtos e análises voltadas a <strong>proje
     <td align="center">
       <img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg"/>
     </td>
+     <td align="center">
+      <img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/metabase.svg"/>
+    </td>
+    <td align="center">
+      <img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/looker.svg"/>
+    </td>
+    <td align="center">
+      <img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/streamlit-logo-secondary-colormark-darktext.svg"/>
+    </td>
   </tr>
 </table>
