@@ -1,93 +1,111 @@
-<!-- Imagem e texto lado a lado -->
+<!-- TOPO: IMAGEM + TEXTO -->
+
 <table>
   <tr>
     <td valign="top" width="75%">
-      <h1>Leonardo Carvalho</h1>
-      <p><strong>👋 Sobre mim</strong></p>
-      <p>Sou <strong>meteorologista</strong> com formação técnica em <strong> Desenvolvimento de Sistemas </strong> e <strong>Sistemas para Internet</strong>, com foco em <strong>tratamento, análise e visualização de dados ambientais e geoespaciais</strong>. Trabalho na construção de soluções que integram ciência e tecnologia para transformar <em>dados brutos</em> em <strong>informações relevantes para a tomada de decisão</strong>.</p>
-<p><strong>Tenho experiência sólida em:</strong></p>
+
+<h1><center>Leonardo Carvalho</center></h1>
+
+<p><strong>👋 Sobre mim</strong></p>
+
+<p>
+Sou <strong>meteorologista</strong> com formação técnica em <strong>Desenvolvimento de Sistemas</strong> e <strong>Geoprocessamento</strong>.
+</p>
+
+<p>
+Atuo em <strong>geoprocessamento, análise de dados ambientais, sensoriamento remoto, fotogrametria e automação</strong>, aplicando ciência e tecnologia para transformar dados brutos em <strong>informação técnica confiável</strong>.
+</p>
+
+<p>
+Tenho experiência na geração de produtos e análises voltadas a <strong>projetos ambientais, territoriais, urbanos e rurais</strong>, apoiando diretamente a <strong>tomada de decisão</strong>.
+</p>
+
+<p><strong>Atualmente, trabalho com:</strong></p>
+
+<ul>
+  <li>🌍 Mapas temáticos e análise geoespacial</li>
+  <li>📍 Topografia e georreferenciamento</li>
+  <li>🚁 Drones e fotogrametria</li>
+  <li>🛰️ Imagens de satélite</li>
+  <li>📊 Análise e visualização de dados</li>
+  <li>⚙️ Automação com Python</li>
+</ul>
+
+<p><strong>🧠 Habilidades Técnicas</strong></p>
       <ul>
-        <li>⚙️ Automação de rotinas</li>
-        <li>🧹 Limpeza e padronização de dados</li>
-        <li>🔗 Integração entre fontes diversas (planilhas, APIs, bancos de dados, imagens de satélite)</li>
-        <li>📊 Criação de dashboards interativos para análise técnica e operacional</li>
-      </ul>      
-      <p>
-      <strong>Atualmente, estou:</strong>
-      </p>
-      <ul>
-        <li>🚀 Aprofundando habilidades avançadas em <strong>Power BI</strong> e <strong>Excel</strong></li>
-        <li>🧠 Estudando <strong>Ciência de Dados com Python</strong></li>
+          <li>🐍 <strong>Python</strong> – Automação, análise de dados, scripts e processamento</li>
+          <li>📊 <strong>Power BI</strong> – Painéis, indicadores e relatórios estratégicos</li>
+          <li>📈 <strong>Excel</strong> – Tratamento, modelagem e controle de dados</li>
+          <li>🌍 <strong>QGIS / ArcGIS</strong> – Geoprocessamento e análise espacial</li>
+          <li>📐 <strong>AutoCAD Civil 3D</strong> – Projetos, topografia e desenho técnico</li>
+          <li>🚁 <strong>Drones e Fotogrametria</strong> – Aerolevantamento e produtos cartográficos</li>
+          <li>🛰️ <strong>Sensoriamento Remoto</strong> – Imagens orbitais e monitoramento ambiental</li>
+          <li>🗄️ <strong>Banco de Dados</strong> – MySQL, SQLite e integração de fontes diversas</li>
       </ul>
-      <p><strong>🧠 Habilidades Técnicas</strong></p>
-      <ul>
-        <li>🐍 <strong>Python</strong> – Automação, análise e visualização de dados</li>
-        <li>📊 <strong>Power BI</strong> – Painéis interativos e relatórios estratégicos</li>
-        <li>📈 <strong>Excel</strong> – Modelagem, tratamento e manipulação de grandes volumes</li>
-        <li>🛰️ <strong>Sensoriamento remoto</strong> – Processamento de imagens orbitais</li>
-        <li>🌍 <strong>Geoprocessamento</strong> – Análises espaciais com foco em meio ambiente</li>
-        <li>🔌 <strong>Integrações</strong> – APIs, bancos de dados e fontes diversas</li>
-      </ul>
-    </td>    
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="250"/>
-    </td>
+
+  
+   <td align="center" width="25%">
+  <!--<img src="https://github.com/l3omc/l3omc/blob/main/img/computer-illustration.png?raw=true" width="250"/>-->
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="250"/>
   </tr>
-  <br>
 </table>
 
----
-
-####  
-<div style="display: inline_block">
-  <img align="center" alt="Leo-MD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-  <img align="center" alt="Leo-PowerBI" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg">
-  <img align="center" alt="Leo-Metabase" height="30" width="40" src="https://logo.svgcdn.com/l/metabase.svg">
-  <img align="center" alt="Leo-Looker" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/looker.svg">
-  <img align="center" alt="Leo-Excel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg">
-  <img align="center" alt="Leo-Streamlit" height="30" width="40" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg">
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Leo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </div>
-
+<br>
 
 ---
 
-#### 
+## 📫 Contato
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3omc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
-  </div>
-
-<!--
-<div align = "left">
-<a href="https://github.com/l3omc" title="Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l3omc&theme=dracula&show_icons=true" />
-</a>
-</div>  -->
-
-
-
----
-
-####  Entre em Contato
 <a href="https://instagram.com/leeo.carvalho" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:leocarva95@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/l3omc/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:leocarva95@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/l3omc/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ---
 
-<div align="center">
-  <h3><b>📍 Contador de Visitantes</b></h3>
-  <img src="https://profile-counter.glitch.me/l3omc/count.svg" alt="Número de visitantes no perfil" />
-</div>
+## 🚀 Tecnologias
+
+<!--<br>
+<p align="left">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+  <img height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg">
+  <img height="30" width="40" src="https://logo.svgcdn.com/l/metabase.svg">
+  <img height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/looker.svg">
+  <img height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg">
+  <img height="30" width="40" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</p>
+
+-->
+
+<table>
+  <tr>
+    <td align="center">
+      <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
+    </td>
+    <td align="center">
+      <img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg"/>
+    </td>
+    <td align="center">
+      <img height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    </td>
+    <td align="center">
+      <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
+    </td>
+    <td align="center">
+      <img height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+    </td>
+    <td align="center">
+      <img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg"/>
+    </td>
+  </tr>
+</table>
