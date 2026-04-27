@@ -100,7 +100,7 @@ Tenho experiência na geração de produtos e análises voltadas a <strong>proje
       <img height="35" width="35" src="img/python.svg"/>
     </td>
     <td align="center">
-      <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
+      <img height="35" width="35" src="img/r.svg"/>
     </td>
     <td align="center">
       <img height="35" width="35" src="img/mysql2.svg"/>
@@ -109,7 +109,7 @@ Tenho experiência na geração de produtos e análises voltadas a <strong>proje
       <img height="35" width="35" src="img/excel2.svg"/>
     </td>
      <td align="center">
-      <img height="35" width="35" src="https://cdn.worldvectorlogo.com/logos/metabase.svg"/>
+      <img height="35" width="35" src="img/metabase.svg"/>
     </td>
     <td align="center">
       <img height="35" width="35" src="img/looker.svg"/>
@@ -118,7 +118,7 @@ Tenho experiência na geração de produtos e análises voltadas a <strong>proje
       <img height="35" width="35" src="/img/drone4.svg"/>
     </td>
     <td align="center">
-      <img height="35" src="img/qgis.svg">
+      <img height="35" src="img/qgis_icon.svg">
     </td>
 
 
